@@ -1,0 +1,65 @@
+body {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  margin: 0;
+}
+
+#img-principal {
+  margin: 64px auto 32px;
+}
+
+#container {
+  width: 540px;
+  margin: 0 auto 64px;
+}
+
+#container h1 {
+  font-family: 'Dosis';
+  font-weight: normal;
+  color: #3F3D56;
+  font-size: 32px;
+}
+
+#container h1 span {
+  font-weight: bold;
+  color: #EE24FF;
+}
+
+#container p {
+  color: #828282;
+  line-height: 22px;
+  margin-bottom: 32px;
+}
+
+.nova-cor {
+  color: #3F3D56;
+}
+
+#line {
+  width: 391px;
+  height: 0;
+  border: 1px solid #ECEFF2;
+  margin: 0 auto 16px;
+}
+
+#footer {
+  margin-bottom: 40px;
+}
+
+#footer a {
+  text-decoration: none;
+  color: #3F3D56;
+  font-weight: bold;
+}
+
+#footer a+a {
+  margin-left: 42px;
+}
+
+#img-final {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
